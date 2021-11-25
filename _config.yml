@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Baek Lab / Site Title"
+title                    : "Helllo!"
 title_separator          : "-"
 name                     : &name "ung-jae Seo"
 description              : &description "HI!! It's a test!!"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "ung"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Helllooooo"
+  location         : "South Korea"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
