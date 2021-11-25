@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Lab
+wow sin gi ha da
 ======
-Testing
+welcome ~
