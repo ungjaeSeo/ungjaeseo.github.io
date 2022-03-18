@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal academic page.
+Welcome to my personal academic page. It is now under design revision.
 ======
 
