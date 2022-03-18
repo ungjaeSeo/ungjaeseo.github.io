@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi?"
+title: "Ung-Jae Seo"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-wow sin gi ha da
+Welcome to my personal academic page.
 ======
-welcome ~
+
