@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hello~~! ^^"
+title                    : "Ung-Jae Seo"
 title_separator          : "-"
-name                     : &name "ung-jae Seo"
-description              : &description "HI!! It's a test!!"
+name                     : &name "Ung-Jae Seo"
+description              : &description "MIS at KUBS"
 url                      : https://ungjaeseo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/ungjaeseo.github.io"
@@ -38,7 +38,7 @@ staticman:
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
+  requiredFields         : ['name', 'sbspjs13@korea.ac.kr', 'message']
   transforms:
     email                : "md5"
   generatedFields:
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "ungjae-seo"
-  avatar           : "20180619_182904_594.jpg"
-  bio              : "Helllooooo"
-  location         : "South Korea"
+  avatar           : "profile.jpg"
+  bio              : "Ung-Jae Seo from Korea University, Seoul, South Korea. Under the Master and ph.D. integrated course starting from 2022 in the major of Management Information Systems."
+  location         : "Seoul, South Korea"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
